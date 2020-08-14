@@ -1,7 +1,8 @@
-# Sourcecred
+# SourceCred
 
-This repo contains an instance of SourceCred running on the MakerDAO [forums](https://forum.makerdao.com/). 
+This repository is currently unused.
 
-Instructions for running SourceCred and calculating Cred scores can be found at [sourcecred/sourcecred](https://github.com/sourcecred/sourcecred).
+MakerDAO's Cred instance is stored here: [sourcecred/makerdao](https://github.com/sourcecred/makerdao-cred),
+and may be viewed live here: https://makerdao.sourcecred.io/
 
- 
+
